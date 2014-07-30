@@ -1,0 +1,12 @@
+[12-Oct-2012 09:56:28] PHP Warning:  PHP Startup: Suhosin Extension does not officially support PHP 5.2 and below anymore, because it is discontinued. Use it at your own risk. in Unknown on line 0
+[12-Oct-2012 09:56:28] PHP Fatal error:  Call to undefined function  bnc_get_header_background() in /home/cbhoster/public_html/ayopeduli/wp-content/plugins/wptouch/themes/core/core-styles.php on line 3
+[12-Oct-2012 09:56:28] PHP Warning:  PHP Startup: Suhosin Extension does not officially support PHP 5.2 and below anymore, because it is discontinued. Use it at your own risk. in Unknown on line 0
+[12-Oct-2012 09:56:28] PHP Fatal error:  Call to undefined function  language_attributes() in /home/cbhoster/public_html/ayopeduli/wp-content/plugins/wptouch/themes/core/core-header.php on line 2
+[12-Oct-2012 09:56:28] PHP Warning:  PHP Startup: Suhosin Extension does not officially support PHP 5.2 and below anymore, because it is discontinued. Use it at your own risk. in Unknown on line 0
+[12-Oct-2012 09:56:28] PHP Fatal error:  Call to undefined function  add_filter() in /home/cbhoster/public_html/ayopeduli/wp-content/plugins/wptouch/themes/core/core-functions.php on line 213
+[17-Oct-2012 08:45:52] PHP Warning:  PHP Startup: Suhosin Extension does not officially support PHP 5.2 and below anymore, because it is discontinued. Use it at your own risk. in Unknown on line 0
+[17-Oct-2012 08:45:52] PHP Fatal error:  Call to undefined function  bnc_get_header_background() in /home/cbhoster/public_html/ayopeduli/wp-content/plugins/wptouch/themes/core/core-styles.php on line 3
+[17-Oct-2012 08:45:52] PHP Warning:  PHP Startup: Suhosin Extension does not officially support PHP 5.2 and below anymore, because it is discontinued. Use it at your own risk. in Unknown on line 0
+[17-Oct-2012 08:45:52] PHP Fatal error:  Call to undefined function  language_attributes() in /home/cbhoster/public_html/ayopeduli/wp-content/plugins/wptouch/themes/core/core-header.php on line 2
+[17-Oct-2012 08:45:52] PHP Warning:  PHP Startup: Suhosin Extension does not officially support PHP 5.2 and below anymore, because it is discontinued. Use it at your own risk. in Unknown on line 0
+[17-Oct-2012 08:45:52] PHP Fatal error:  Call to undefined function  add_filter() in /home/cbhoster/public_html/ayopeduli/wp-content/plugins/wptouch/themes/core/core-functions.php on line 213

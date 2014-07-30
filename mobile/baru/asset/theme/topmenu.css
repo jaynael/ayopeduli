@@ -1,0 +1,72 @@
+/* UNTUK TOP MENU */
+div#element-box div.section-box div.m { background:#fbfbfb }
+div.m { border-left:none; border-right:none; padding:0 }
+h3.param { background:#eee; color:#333; font-size:12px; margin:40px 0 10px; padding:4px 4px 4px 12px }
+h2.param { background:#333; color:#fff; font-size:18px; margin-bottom:10px; text-align:left; padding:2px 2px 2px 10px }
+#topmenu-wrap { background-color:#1C1919; float:left; width:100% }
+#topmenu-wrap.black { background:#1C1919 }
+#module-status.black { background:#333333 }
+#topmenu-wrap.grey { background:#e5e5e5 }
+#topmenu-wrap.grey li { border-right:1px solid #bbb }
+#module-status.grey { background:#ccc }
+#topmenu-wrap.white { background:#f9f9f9 }
+#topmenu-wrap.white li { border-right:1px solid #eee }
+#topmenu-wrap.blue { background:#0077B5 }
+#topmenu-wrap.blue li { border-right:1px solid #008DC2 }
+#module-status.blue { background:#004994 }
+#topmenu-wrap.black li { border-right:1px solid #333333 }
+#topmenu-wrap.green { background:#79B900 }
+#topmenu-wrap.green li { border-right:1px solid #4F9900 }
+#module-status.green { background:#4F9900 }
+#topmenu-wrap.red { background:#B90000 }
+#topmenu-wrap.red li { border-right:1px solid #A10000 }
+#module-status.red { background:#A10000 }
+#topmenu-wrap.yellow { background:#BFB91C }
+#topmenu-wrap.yellow li { border-right:1px solid #CCC636 }
+#module-status.yellow { background:#9F960B }
+#topmenu-wrap.orange { background:#C08727 }
+#topmenu-wrap.orange li { border-right:1px solid #CA9841 }
+#module-status.orange { background:#A0580F }
+#topmenu-wrap.pink { background:#D83DC1 }
+#topmenu-wrap.pink li { border-right:1px solid #E05DCE }
+#module-status.pink { background:#C1179F }
+#topmenu-wrap.purple { background:#A122BE }
+#topmenu-wrap.purple li { border-right:1px solid #B23BC9 }
+#module-status.purple { background:#750C9B }
+#topmenu-wrap.teal { background:#139A97 }
+#topmenu-wrap.teal li { border-right:1px solid #21A6A3 }
+#module-status.teal { background:#066B67 }
+#topmenu, #topmenu ul, #topmenu li { border:0 none; margin:0; padding:0 }
+#topmenu { position:relative; z-index:100 }
+#topmenu li { float:left; position:relative; list-style:none; display:inline; border-right:1px solid #d8d8d8 }
+#topmenu li a { display:block; white-space:nowrap }
+#topmenu li.node a:hover { background: #fff; color: #333; }
+#topmenu li li { clear:both; border:0; display:block; float:none }
+#topmenu li ul { visibility:hidden; position:absolute }
+#topmenu li li ul { top:0; left:0 }
+#topmenu li:hover ul { visibility:visible }
+#topmenu li:hover ul li ul { visibility:hidden }
+#topmenu li:hover li:hover ul { visibility:visible; left:100% }
+#topmenu ul { border:.1em solid #ccc; background:#f6f6f6 }
+#topmenu ul li.separator { background:#DDE1E6; height:1px }
+#topmenu a, #topmenu div { color:#333333; line-height:1.6em; vertical-align:middle; font-size:11px; font-weight:bold; text-decoration:none; cursor:pointer; background-repeat:no-repeat; background-position:left 50%; margin:0 1px; padding:.35em 1em }
+#topmenu ul a { font-size:11px; font-weight:normal; line-height:1.2em; border-bottom:1px solid #fff; padding: 4px 10px 4px 10px; }
+#topmenu li a:hover, #topmenu li:hover li:hover a, #topmenu li:hover li:hover li a:hover { background:#eee }
+#topmenu li:hover li a { background: #fff; }
+#topmenu li:hover li.node a { background:#fff url(../images/j_arrow.png) no-repeat right 50% }
+#topmenu li:hover li.node a:hover { background:#eee url(../images/j_arrow.png) no-repeat right 50% }
+body.full #content-wrap { margin-left:30px }
+#position { background: #fff; color:#333333; font-size:13px; margin-left:4px; margin-top:2px; padding:4px; border:medium none; }
+#combobox-position-select { width:160px }
+#menu li.node ul { visibility:hidden; overflow:hidden; height:0 }
+div.header span, #topmenu-wrap.grey li a, #topmenu-wrap.white li a, #topmenu-wrap.blue li li a, #topmenu-wrap.black li li a, #topmenu-wrap.green li li a, #topmenu-wrap.red li li a, #topmenu-wrap.yellow li li a, #topmenu-wrap.orange li li a, #topmenu-wrap.pink li li a, #topmenu-wrap.purple li li a, #topmenu-wrap.teal li li a { color:#666 }
+#login-wrapper #form-login input[type=submit], #system-message dt.message, #menu ul ul, #topmenu li.disabled a, #topmenu li.disabled:hover a, body.full #header-box { display:none }
+table.admintable, textarea#mm_message { width:100% }
+a img, #topmenu-wrap.blue li li, #topmenu-wrap.black li li, #topmenu-wrap.green li li, #topmenu-wrap.red li li, #topmenu-wrap.yellow li li, #topmenu-wrap.orange li li, #topmenu-wrap.pink li li, #topmenu-wrap.purple li li, #topmenu-wrap.teal li li { border:none }
+#sidebar #main-nav li li a, #menu li li a, body.full { background:none }
+#sidebar #main-nav ul li a:hover, #sidebar #main-nav ul li a.menutab, #sidebar #main-nav li a.current, #sidebar a:hover, #sidebar a, #sidebar a:active, #menu li a:hover, #menu li a.menutab, #menu li a.current, #topmenu-wrap.blue li a, #module-status.blue a, #module-status.blue span, #topmenu-wrap.black li a, #module-status.black a, #module-status.black span, #topmenu-wrap.green li a, #module-status.green a, #module-status.green span, #topmenu-wrap.red li a, #module-status.red a, #module-status.red span, #topmenu-wrap.yellow li a, #module-status.yellow a, #module-status.yellow span, #topmenu-wrap.orange li a, #module-status.orange a, #module-status.orange span, #topmenu-wrap.pink li a, #module-status.pink a, #module-status.pink span, #topmenu-wrap.purple li a, #module-status.purple a, #module-status.purple span, #topmenu-wrap.teal li a, #module-status.teal a, #module-status.teal span { color:#fff }
+#content-box .pane-sliders, .content-box, .content-box-header, ul#submenu li a.current, .shortcut-button, .notification { -moz-border-radius:6px; -webkit-border-radius:6px; border-radius:6px }
+div#element-box, #folderview iframe#folderframe body, div.imgTotal, .shortcut-button:hover, #main-content tbody tr, #module-status.white, #topmenu li:hover li:hover li a { background:#fff }
+#module-status.grey a, #module-status.grey span, #module-status.white a, #module-status.white span, #topmenu ul a:hover, #topmenu div:hover { color:#333 }
+#menu a.opened:hover { color: #000; }
+a.shortcut-button:hover, #topmenu ul { -moz-box-shadow: 0px 3px 3px #bbb; -webkit-box-shadow: 0px 3px 3px #bbb; -box-shadow: 0px 3px 3px #bbb; }

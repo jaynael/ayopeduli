@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Ajaxpagination.php" server="ayopeduli.com/public_html/newversion/" local="129553192000000000" remote="130323285600000000" />
+<file name="Benchmark.php" server="ayopeduli.com/public_html/newversion/" local="129553192000000000" remote="130323285600000000" />
+<file name="Calendar.php" server="ayopeduli.com/public_html/newversion/" local="129941291120000000" remote="130323285600000000" />
+<file name="Cart.php" server="ayopeduli.com/public_html/newversion/" local="129941291120000000" remote="130323285600000000" />
+<file name="Config.php" server="ayopeduli.com/public_html/newversion/" local="129553192000000000" remote="130323285600000000" />
+<file name="Controller.php" server="ayopeduli.com/public_html/newversion/" local="129553192000000000" remote="130323285600000000" />
+<file name="Driver.php" server="ayopeduli.com/public_html/newversion/" local="129941291120000000" remote="130323285600000000" />
+<file name="Email.php" server="ayopeduli.com/public_html/newversion/" local="129941291120000000" remote="130323285600000000" />
+<file name="Encrypt.php" server="ayopeduli.com/public_html/newversion/" local="129941291120000000" remote="130323285600000000" />
+<file name="Exceptions.php" server="ayopeduli.com/public_html/newversion/" local="129553192020000000" remote="130323285600000000" />
+<file name="Form_validation.php" server="ayopeduli.com/public_html/newversion/" local="129941291120000000" remote="130323285600000000" />
+<file name="Ftp.php" server="ayopeduli.com/public_html/newversion/" local="129941291120000000" remote="130323285600000000" />
+<file name="Hooks.php" server="ayopeduli.com/public_html/newversion/" local="129553192020000000" remote="130323285600000000" />
+<file name="Image_lib.php" server="ayopeduli.com/public_html/newversion/" local="129941291120000000" remote="130323285600000000" />
+<file name="index.html" server="ayopeduli.com/public_html/newversion/" local="129663967580000000" remote="130323285600000000" />
+<file name="Input.php" server="ayopeduli.com/public_html/newversion/" local="129553192020000000" remote="130323285600000000" />
+<file name="Javascript.php" server="ayopeduli.com/public_html/newversion/" local="129941291120000000" remote="130323285600000000" />
+<file name="Language.php" server="ayopeduli.com/public_html/newversion/" local="129553192020000000" remote="130323285600000000" />
+<file name="Loader.php" server="ayopeduli.com/public_html/newversion/" local="129553192020000000" remote="130323285600000000" />
+<file name="Log.php" server="ayopeduli.com/public_html/newversion/" local="129941291120000000" remote="130323285600000000" />
+<file name="Migration.php" server="ayopeduli.com/public_html/newversion/" local="129941296780000000" remote="130323285600000000" />
+<file name="Model.php" server="ayopeduli.com/public_html/newversion/" local="129553192040000000" remote="130323285600000000" />
+<file name="Output.php" server="ayopeduli.com/public_html/newversion/" local="129553192040000000" remote="130323285600000000" />
+<file name="Pagination.php" server="ayopeduli.com/public_html/newversion/" local="129941291120000000" remote="130323285600000000" />
+<file name="Parser.php" server="ayopeduli.com/public_html/newversion/" local="129941291120000000" remote="130323285600000000" />
+<file name="Profiler.php" server="ayopeduli.com/public_html/newversion/" local="129941296780000000" remote="130323285600000000" />
+<file name="Router.php" server="ayopeduli.com/public_html/newversion/" local="129553192040000000" remote="130323285600000000" />
+<file name="Session.php" server="ayopeduli.com/public_html/newversion/" local="129941296780000000" remote="130323285600000000" />
+<file name="Sha1.php" server="ayopeduli.com/public_html/newversion/" local="129941291120000000" remote="130323285600000000" />
+<file name="Table.php" server="ayopeduli.com/public_html/newversion/" local="129941291120000000" remote="130323285600000000" />
+<file name="Trackback.php" server="ayopeduli.com/public_html/newversion/" local="129941291120000000" remote="130323285600000000" />
+<file name="Typography.php" server="ayopeduli.com/public_html/newversion/" local="129941291120000000" remote="130323285600000000" />
+<file name="Unit_test.php" server="ayopeduli.com/public_html/newversion/" local="129941291120000000" remote="130323285600000000" />
+<file name="Upload.php" server="ayopeduli.com/public_html/newversion/" local="129941291120000000" remote="130323285600000000" />
+<file name="URI.php" server="ayopeduli.com/public_html/newversion/" local="129553192060000000" remote="130323285600000000" />
+<file name="User_agent.php" server="ayopeduli.com/public_html/newversion/" local="129941291120000000" remote="130323285600000000" />
+<file name="Validation.php" server="ayopeduli.com/public_html/newversion/" local="129553192060000000" remote="130323285600000000" />
+<file name="Xmlrpc.php" server="ayopeduli.com/public_html/newversion/" local="129941291120000000" remote="130323285600000000" />
+<file name="Xmlrpcs.php" server="ayopeduli.com/public_html/newversion/" local="129941291120000000" remote="130323285600000000" />
+<file name="Zip.php" server="ayopeduli.com/public_html/newversion/" local="129941291120000000" remote="130323285600000000" />
+</dwsync>

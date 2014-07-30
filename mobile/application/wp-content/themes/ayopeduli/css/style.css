@@ -1,0 +1,429 @@
+/*
+Theme Name: ayopeduli
+Theme URI: http://ayopeduli.com
+Description: theme original by ayopeduli.com
+Author: Jaenal Gufron
+Version: 1.0
+License: ayopeduli
+License URI: license.txt
+Tags: ayopeduli.com , charity
+
+
+-------------------------------------------------------------- */
+body{
+	font-family:font-family: 'Imprima', sans-serif;
+}
+a:hover{
+	text-decoration:none;
+}
+.wrapper{
+	width:1100px;
+	margin:0px auto;
+}
+#universe{
+	position:relative;
+}
+#header{
+    background: none repeat scroll 0 0 #0082A1;
+    box-shadow: 0 0 8px #000;
+	-moz-box-shadow: 0 0 8px #000;
+	-webkit-box-shadow: 0 0 8px #000;
+	-khtml-box-shadow: 0 0 8px #000;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+	height:20px;
+    z-index: 10;
+}
+.left-menu{
+	float: left;
+	width:285px;
+}
+#footer .wrapper .left-menu{
+	float:left;
+	width:auto;
+}
+#header .left-menu li, .right-menu  li{
+    float: left;
+    list-style: none outside none;
+}
+#header .left-menu ul{
+}
+#header  form{
+    background: none repeat scroll 0 0 transparent;
+    border: 0 none;
+    box-shadow: 0 0 0;
+    display: inline-block;
+    margin: -4px 0 0 125px;
+    padding: 0;
+}
+#header  form .input-prepend{
+	margin:0px;
+}
+#header  form .input-prepend input{
+    margin: 0px 0 0;
+}
+body.login #header  form .input-prepend input{
+	height: 25px;
+    margin: 3px 0 0;
+}
+#header  form .input-prepend input#searchsubmit{
+	color:#fff;
+	border:none;
+}
+
+#header .left-menu .home{
+	float:left;
+}
+#header .left-menu .home  a{
+    background: url("images/home-2.png") no-repeat scroll 0 0 transparent;
+    display: inline-block;
+    height: 24px;
+    margin: -5px 0 0;
+    padding: 3px;
+    width: 35px;
+}
+#header .left-menu .home a:hover, #header .left-menu .home a:active {
+	background: url("images/home.png") no-repeat scroll 0 0 transparent;
+}
+#header .left-menu li a, #header .right-menu li a{
+	color:#fff;
+	font-size:16px;
+	padding: 10px;
+}
+#header  li a:hover{
+    background: none repeat scroll 0 0 #CCCCCC;
+	color:#222;
+}
+#header  li a.profile:hover{
+    background: none;
+	color:#fff;
+}
+.right-menu{
+	float:right;
+}
+#logo{
+    width: 120px;
+	float:left;
+	margin:0px 30px;
+}
+#logo img{
+	width: 120px;
+}
+#content .top{
+	margin:30px 0px;
+}
+#content .top .ads-left{
+	width:450px;
+	background:#ccc;
+	height:120px;
+	float:left;
+}
+#content .top .ads-right{
+	width:450px;
+	height:120px;
+	float:right;
+	background:#ccc;
+}
+/**
+ * Grid container
+ */
+#tiles {
+list-style-type: none;
+position: relative; /** Needed to ensure items are laid out relative to this container **/
+margin: 0px 0px 0px 5px;
+}
+
+/**
+ * Grid items
+ */
+#tiles li {
+padding: 0px 0px 7px ;
+}
+#tiles li .content-li {
+width: 200px;
+background-color: #ffffff;
+border: 1px solid #dedede;
+padding: 5px;
+position:relative;
+	
+	transition: box-shadow 1s;
+	-moz-transition: -moz-box-shadow 1s;
+	-webkit-transition: -webkit-box-shadow 1s;
+}
+#tiles li .content-li:hover {
+	box-shadow: 0 1px 10px rgba(34,25,25,1);
+	-moz-box-shadow: 0 1px 10px rgba(34,25,25,1);
+	-webkit-box-shadow: 0 1px 10px rgba(34,25,25,1);
+}
+#tiles li .content-li .image{
+	overflow:hidden;
+	width:200px;
+	  cursor: pointer;
+	  position:relative;
+}
+#tiles li .content-li .sobat-ribbon{
+	background: url("images/sobat-label.png") no-repeat scroll left center transparent;
+    height: 77px;
+    left: -10px;
+    padding: 0 0 0 36px;
+    position: absolute;
+    top: 2px;
+    z-index: 3;
+}
+#tiles li .content-li .sobat-ribbon h3{
+	background: none repeat scroll 0 0 #0082A1;
+    box-shadow: 1px 0 3px #444444;
+    color: #FFFFFF;
+    line-height: 100%;
+    margin: -3px 0 0 -3px;
+    padding: 5px 10px;
+    text-shadow: 0 0 3px #000000;
+	font-weight:normal;
+}
+#tiles li .content-li .image .name{
+    background: none repeat scroll 0 0 #000000;
+    bottom: 1px;
+    opacity: 0.8;
+    position: absolute;
+    text-align: center;
+    width: 200px;
+	color: #FFFFFF;
+    margin: 0;
+    padding: 5px 0;
+}
+#tiles li .content-li .date{
+    background: none repeat scroll 0 0 #FFFFFF;
+    opacity: 0.9;
+    padding: 5px;
+    position: absolute;
+    right: 5px;
+    text-align: center;
+    top: 5px;
+    font-size: 10px;
+}
+#tiles li .content-li .tooltips{
+    font-size: 12px;
+    margin: 5px 0 0;
+}
+
+#tiles li .content-li .tooltips p.description{
+	margin: 0 0 5px;
+}
+#tiles li .content-li .tooltips .donate{
+    margin: 0 0 5px;
+}
+#tiles li .content-li .tooltips .donate .total{
+	float:left;
+	text-align: center;
+}
+#tiles li .content-li .tooltips .donate .total p{
+	font-weight:bold;
+	margin:0px;
+	font-size: 14px;
+}
+#tiles li .content-li .tooltips .donate .tombol{
+    background: none repeat scroll 0 0 #0082A1;
+    border: 0 solid;
+    border-radius: 2px 2px 2px 2px;
+    color: #FFFFFF;
+    float: right;
+    padding: 5px;
+}
+#tiles li .content-li .tooltips .donate .tombol:hover{
+	background:#0093b2;
+}
+#tiles li .content-li .tooltips .author{
+    background: none repeat scroll 0 0 #CCCCCC;
+    margin: 0 0 -5px -5px;
+    padding: 5px;
+    width: 200px;
+}
+#tiles li .content-li .tooltips .author .images{
+	margin: 0 5px 0 0;
+	width:30px;
+	height:30px;
+	overflow:hidden;
+	float:left;
+}
+#tiles li .content-li .tooltips .author .images img{
+	width:30px;
+}
+
+#tiles li .content-li .date span{
+    display: block;
+    font-size: 24px;
+    line-height: 110%;
+    margin: 0 0 0;
+    text-align: center;
+}
+
+#tiles li img {
+display: block;
+width:210px;
+}
+
+/**
+ * Grid item text
+ */
+#tiles li p {
+color: #666;
+font-size: 12px;
+}
+
+/**
+ * Some extra styles to randomize heights of grid items.
+ */
+#tiles ali:nth-child(3n) {
+height: 175px;
+}
+
+#tiles ali:nth-child(4n-3) {
+padding-bottom: 30px;
+}
+
+#tiles ali:nth-child(5n) {
+height: 250px;
+}
+
+/** General page styling **/
+
+#main {
+padding: 30px 0 30px 0;
+}
+
+
+/** General page styling **/
+#content {
+}
+#content .wrapper {
+}
+#content .content-home{
+	position:relative;
+	padding: 30px 0 30px 0; 
+	width:1100px;
+}
+
+
+#footer .wrapper{
+	border-top:2px solid #0082A1;
+	padding:10px 0px;
+}
+#footer .wrapper .left-menu li{
+	list-style:none;
+	float:left;
+}
+#footer .wrapper .left-menu li a{
+	border-right:1px solid;
+	padding:0px 10px;
+}
+#footer .wrapper .left-menu li a.last{
+	border:none;
+}
+
+#single{
+	width:960px;
+	margin:0px auto 10px;
+}
+#single .left{
+    box-shadow: 9px 3px 6px #EEEEEE;
+    float: left;
+    margin: 10px 15px 0 0;
+    padding: 5px;
+    width: 200px;
+}
+#single .left.profile{
+    box-shadow: 9px 3px 6px #EEEEEE;
+    float: left;
+    margin: 0px 15px 0 0;
+    padding: 5px;
+    width: 200px;
+}
+#single .left .widget.profile{
+	float: right;
+}
+#single .left .widget.profile .widget-title span{
+	display: block;
+    font-size: 24px;
+    line-height: 122%;
+}
+#single .left .widget.profile .widget-title{
+	font-size: 16px;
+    font-weight: normal;
+    line-height: 118%;
+    text-align: center;
+}
+#single .left .widget.profile .widget-content{
+}
+#single .left .widget.profile .widget-content .image{
+}
+#single .left .widget.profile .widget-content .image p{
+	text-align:center;
+}
+#single .left .widget.profile .widget-content .image img{
+}
+
+#single .right{
+    float: left;
+    margin: 0 0 0 25px;
+    width: 640px;
+}
+#single .right .post{
+}
+#single .right .post .info{
+}
+#single .right .post .info .donate{
+	font-size: 14px;
+    margin: 10px 0;
+}
+#single .right .post .info .donate .text{
+	float:left;
+}
+#single .right .post .info .donate .field-donate{
+	float:right;
+	margin: -5px 0 0;
+}
+#single .right .post .info .donate .field-donate .input-prepend{
+	float: left;
+    margin: 0 10px 0 0;
+}
+#single .right .post .info .donate .field-donate a.btn{
+}
+#single .right .post .info .image{
+    background: none repeat scroll 0 0 #FFFFFF;
+    box-shadow: 0 0 5px #000;
+	-moz-box-shadow: 0 0 5px #000;
+	-khtml-box-shadow: 0 0 5px #000;
+	-webkit-box-shadow: 0 0 5px #000;
+    margin: 20px auto;
+    overflow: hidden;
+    padding: 5px;
+    width: 550px;
+}
+#single .right .post .info .image img{
+	margin:auto;
+	width:550px;
+}
+ul.forms li{
+	list-style:none;
+	margin: 0 10px;
+}
+ul.forms li label{
+	float:left;
+	width:160px;
+}
+/*#formBuilderCSSIDdonasi {
+    background-clip: padding-box;
+    background-color: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 6px 6px 6px 6px;
+    box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3);
+    left: 50%;
+    margin: -250px 0 0 -280px;
+    overflow: auto;
+    position: fixed;
+    top: 71%;
+    width: 540px;
+    z-index: 1050;
+	padding:10px;
+}*/

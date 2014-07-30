@@ -1,0 +1,36 @@
+[12-Oct-2012 09:56:35] PHP Warning:  PHP Startup: Suhosin Extension does not officially support PHP 5.2 and below anymore, because it is discontinued. Use it at your own risk. in Unknown on line 0
+[12-Oct-2012 09:56:35] PHP Warning:  PHP Startup: Suhosin Extension does not officially support PHP 5.2 and below anymore, because it is discontinued. Use it at your own risk. in Unknown on line 0
+[12-Oct-2012 09:56:35] PHP Warning:  PHP Startup: Suhosin Extension does not officially support PHP 5.2 and below anymore, because it is discontinued. Use it at your own risk. in Unknown on line 0
+[12-Oct-2012 09:56:35] PHP Fatal error:  Call to undefined function  wptouch() in /home/cbhoster/public_html/ayopeduli/wp-content/plugins/wptouch/html/head-area.php on line 8
+[12-Oct-2012 09:56:35] PHP Fatal error:  Call to undefined function  bloginfo() in /home/cbhoster/public_html/ayopeduli/wp-content/plugins/wptouch/html/icon-area.php on line 7
+[12-Oct-2012 09:56:35] PHP Fatal error:  Call to undefined function  _e() in /home/cbhoster/public_html/ayopeduli/wp-content/plugins/wptouch/html/push-area.php on line 4
+[12-Oct-2012 09:56:35] PHP Warning:  PHP Startup: Suhosin Extension does not officially support PHP 5.2 and below anymore, because it is discontinued. Use it at your own risk. in Unknown on line 0
+[12-Oct-2012 09:56:35] PHP Warning:  PHP Startup: Suhosin Extension does not officially support PHP 5.2 and below anymore, because it is discontinued. Use it at your own risk. in Unknown on line 0
+[12-Oct-2012 09:56:35] PHP Warning:  PHP Startup: Suhosin Extension does not officially support PHP 5.2 and below anymore, because it is discontinued. Use it at your own risk. in Unknown on line 0
+[12-Oct-2012 09:56:35] PHP Warning:  PHP Startup: Suhosin Extension does not officially support PHP 5.2 and below anymore, because it is discontinued. Use it at your own risk. in Unknown on line 0
+[12-Oct-2012 09:56:35] PHP Fatal error:  Call to undefined function  _e() in /home/cbhoster/public_html/ayopeduli/wp-content/plugins/wptouch/html/advanced-area.php on line 5
+[12-Oct-2012 09:56:35] PHP Fatal error:  Call to undefined function  _e() in /home/cbhoster/public_html/ayopeduli/wp-content/plugins/wptouch/html/style-area.php on line 5
+[12-Oct-2012 09:56:35] PHP Fatal error:  Call to undefined function  _e() in /home/cbhoster/public_html/ayopeduli/wp-content/plugins/wptouch/html/ads-stats-area.php on line 5
+[12-Oct-2012 09:56:35] PHP Warning:  PHP Startup: Suhosin Extension does not officially support PHP 5.2 and below anymore, because it is discontinued. Use it at your own risk. in Unknown on line 0
+[12-Oct-2012 09:56:35] PHP Fatal error:  Call to undefined function  compat_get_plugin_dir() in /home/cbhoster/public_html/ayopeduli/wp-content/plugins/wptouch/html/plugin-compat-area.php on line 1
+[12-Oct-2012 09:56:35] PHP Warning:  PHP Startup: Suhosin Extension does not officially support PHP 5.2 and below anymore, because it is discontinued. Use it at your own risk. in Unknown on line 0
+[12-Oct-2012 09:56:36] PHP Fatal error:  Call to undefined function  _e() in /home/cbhoster/public_html/ayopeduli/wp-content/plugins/wptouch/html/general-settings-area.php on line 5
+[12-Oct-2012 09:56:36] PHP Fatal error:  Call to undefined function  _e() in /home/cbhoster/public_html/ayopeduli/wp-content/plugins/wptouch/html/page-area.php on line 5
+[17-Oct-2012 08:46:04] PHP Warning:  PHP Startup: Suhosin Extension does not officially support PHP 5.2 and below anymore, because it is discontinued. Use it at your own risk. in Unknown on line 0
+[17-Oct-2012 08:46:04] PHP Warning:  PHP Startup: Suhosin Extension does not officially support PHP 5.2 and below anymore, because it is discontinued. Use it at your own risk. in Unknown on line 0
+[17-Oct-2012 08:46:04] PHP Warning:  PHP Startup: Suhosin Extension does not officially support PHP 5.2 and below anymore, because it is discontinued. Use it at your own risk. in Unknown on line 0
+[17-Oct-2012 08:46:04] PHP Warning:  PHP Startup: Suhosin Extension does not officially support PHP 5.2 and below anymore, because it is discontinued. Use it at your own risk. in Unknown on line 0
+[17-Oct-2012 08:46:04] PHP Fatal error:  Call to undefined function  _e() in /home/cbhoster/public_html/ayopeduli/wp-content/plugins/wptouch/html/push-area.php on line 4
+[17-Oct-2012 08:46:04] PHP Fatal error:  Call to undefined function  _e() in /home/cbhoster/public_html/ayopeduli/wp-content/plugins/wptouch/html/page-area.php on line 5
+[17-Oct-2012 08:46:04] PHP Fatal error:  Call to undefined function  bloginfo() in /home/cbhoster/public_html/ayopeduli/wp-content/plugins/wptouch/html/icon-area.php on line 7
+[17-Oct-2012 08:46:04] PHP Fatal error:  Call to undefined function  wptouch() in /home/cbhoster/public_html/ayopeduli/wp-content/plugins/wptouch/html/head-area.php on line 8
+[17-Oct-2012 08:46:05] PHP Warning:  PHP Startup: Suhosin Extension does not officially support PHP 5.2 and below anymore, because it is discontinued. Use it at your own risk. in Unknown on line 0
+[17-Oct-2012 08:46:05] PHP Fatal error:  Call to undefined function  _e() in /home/cbhoster/public_html/ayopeduli/wp-content/plugins/wptouch/html/style-area.php on line 5
+[17-Oct-2012 08:46:05] PHP Warning:  PHP Startup: Suhosin Extension does not officially support PHP 5.2 and below anymore, because it is discontinued. Use it at your own risk. in Unknown on line 0
+[17-Oct-2012 08:46:05] PHP Warning:  PHP Startup: Suhosin Extension does not officially support PHP 5.2 and below anymore, because it is discontinued. Use it at your own risk. in Unknown on line 0
+[17-Oct-2012 08:46:05] PHP Fatal error:  Call to undefined function  _e() in /home/cbhoster/public_html/ayopeduli/wp-content/plugins/wptouch/html/advanced-area.php on line 5
+[17-Oct-2012 08:46:05] PHP Fatal error:  Call to undefined function  _e() in /home/cbhoster/public_html/ayopeduli/wp-content/plugins/wptouch/html/ads-stats-area.php on line 5
+[17-Oct-2012 08:46:06] PHP Warning:  PHP Startup: Suhosin Extension does not officially support PHP 5.2 and below anymore, because it is discontinued. Use it at your own risk. in Unknown on line 0
+[17-Oct-2012 08:46:06] PHP Fatal error:  Call to undefined function  compat_get_plugin_dir() in /home/cbhoster/public_html/ayopeduli/wp-content/plugins/wptouch/html/plugin-compat-area.php on line 1
+[17-Oct-2012 08:46:06] PHP Warning:  PHP Startup: Suhosin Extension does not officially support PHP 5.2 and below anymore, because it is discontinued. Use it at your own risk. in Unknown on line 0
+[17-Oct-2012 08:46:06] PHP Fatal error:  Call to undefined function  _e() in /home/cbhoster/public_html/ayopeduli/wp-content/plugins/wptouch/html/general-settings-area.php on line 5
